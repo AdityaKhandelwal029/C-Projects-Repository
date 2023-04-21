@@ -1,2 +1,2 @@
-# C-Projects-Repository
+# CPP-Projects-Repository
 C++ Projects Repository
