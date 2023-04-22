@@ -1,1 +1,1 @@
-This Folder contains a Rock paper Scissor and Tic Tac Toe Project made in C++. 
+This Folder contains  Rock-paper-Scissor and Tic-Tac-Toe game Project made in C++ with DevC++ Ide. 
