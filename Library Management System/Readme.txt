@@ -6,7 +6,14 @@ Database use - MySQL
 Steps for testing. 
 
 Step 1.) Download and install MySql database.
-Step 2.) Create tables in database with the name as - book_menu,employee_menu,member_menu,purchase_menu,sale_menu,supplier_menu. 
+Step 2.) Create a database with the name bms.
+Step 3.)Login details used
+         host name  - localhost
+         User       - root
+         Password   - 12345
+         Port       - 3306
+         database name - bms
+Step 4.) Create tables in database with the name as - book_menu,employee_menu,member_menu,purchase_menu,sale_menu,supplier_menu. 
     and description as.
 
 mysql> desc book_menu;
@@ -66,11 +73,4 @@ mysql> desc supplier_menu;
 | phone_number | bigint       | NO   |     | NULL    |       |
 | Address      | varchar(200) | YES  |     | NULL    |       |
 +--------------+--------------+------+-----+---------+-------+
-
-Step 3.)Login details used
-         host name  - localhost
-         User       - root
-         Password   - 12345
-         Port       - 3306
-         Table name - bms
 
