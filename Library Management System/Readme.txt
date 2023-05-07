@@ -1,5 +1,5 @@
 This folder contains library management system project made in c++ with DevC++ Ide.
-this project uses concepts of data management system in c++.
+This project uses concepts of database management system in c++.
 
 Database use - MySQL
 
