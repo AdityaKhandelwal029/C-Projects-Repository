@@ -1,5 +1,5 @@
 # CPP-Projects-Repository
-This C++ Projects Repository contains 5 project made in C++ with DevC++ IDE. 
+This C++ Projects Repository contains 5 projects made in C++ with DevC++ IDE. 
 
 Project 1 - Test Project.              							
 Project 2 - Rock paper scissior and Tic Tac Toe game project.						
